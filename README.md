@@ -1,2 +1,2 @@
 # Friend-Finder
-Friend Finder Node Express
+Node / Express Friend finder app
